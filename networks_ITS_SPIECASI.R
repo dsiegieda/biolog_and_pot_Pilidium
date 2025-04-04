@@ -1,3 +1,6 @@
+"""The code was developed by Dominika Siegieda, PhD, Institute of Agrophysics, Polish Academy of Sciences. This research was funded in whole by National Science Centre, Poland, contract number:2022/45/N/NZ9/02089"""
+
+
 ### zwiększenie limitu pamięci dla LINUXA    ulimit::memory_limit(200000)
 
 
